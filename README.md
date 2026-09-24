@@ -1,4 +1,4 @@
-# task7_flutterfire_notes
+# task6
 
 A new Flutter project.
 
