@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # task 6,7, & 8
+=======
+# task 6,7,8
+>>>>>>> 697d982 (Initial commit)
 
 A new Flutter project.
 

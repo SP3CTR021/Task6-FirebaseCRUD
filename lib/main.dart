@@ -22,9 +22,20 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Firebase CRUD',
       theme: ThemeData(
-        primarySwatch: Colors.teal,
+        brightness: Brightness.dark,
+        primarySwatch: Colors.deepPurple,
+        scaffoldBackgroundColor: const Color(0xFF121212),
+        colorScheme: const ColorScheme.dark(
+          primary: Colors.deepPurpleAccent,
+          secondary: Colors.purpleAccent,
+          surface: Color(0xFF1E1E1E),
+        ),
+        appBarTheme: const AppBarTheme(
+          backgroundColor: Color(0xFF1E1E1E),
+          elevation: 0,
+        ),
       ),
-      home: HomePage(),
+      home: const HomePage(),
     );
   }
 }

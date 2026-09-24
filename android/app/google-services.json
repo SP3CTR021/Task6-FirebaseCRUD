@@ -12,7 +12,12 @@
           "package_name": "com.example.task7_flutterfire_notes"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "727578316563-v6u9l3jjkgk3mjc2o1kdmbc7nlk5alpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyDmbMgOp3QM0sBiHqjt25fRIRq5gmFlyPE"
@@ -20,7 +25,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727578316563-v6u9l3jjkgk3mjc2o1kdmbc7nlk5alpv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "727578316563-qvllkbbc1iscq85g67c567rmsuur30dd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.task7FlutterfireNotes"
+              }
+            }
+          ]
         }
       }
     }
