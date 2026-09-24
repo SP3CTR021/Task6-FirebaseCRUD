@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727578316563",
+    "project_id": "sargent-yaml",
+    "storage_bucket": "sargent-yaml.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727578316563:android:6451e8463b8eeec19254e6",
+        "android_client_info": {
+          "package_name": "com.example.task7_flutterfire_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmbMgOp3QM0sBiHqjt25fRIRq5gmFlyPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
